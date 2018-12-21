@@ -2,7 +2,7 @@
 ------------------------
 
 
-![搜多线程谷歌给的第一张图🙄](https://upload-images.jianshu.io/upload_images/1678135-4dd42c5a74e7eac7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![搜多线程谷歌给的第一张图🙄](https://upload-images.jianshu.io/upload_images/1678135-4dd42c5a74e7eac7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
 
 
 
