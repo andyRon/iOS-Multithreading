@@ -201,7 +201,9 @@ GCD为Grand Central Dispatch的缩写。Grand Central Dispatch (GCD)是Apple开�
 ```
   
 运行结果崩溃：  
-   ![](https://upload-images.jianshu.io/upload_images/1678135-926ac158226a8ff5.jpg)
+   ![](https://upload-images.jianshu.io/upload_images/1678135-926ac158226a8ff5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+   
+   
 打印结果：
 ```
 GCD(OC)[51511:6351422] A=====<NSThread: 0x600000064340>{number = 1, name = main}
