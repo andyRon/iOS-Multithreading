@@ -730,11 +730,11 @@ NSOperation(OC)[8977:6302810] 2---<NSThread: 0x604000274240>{number = 4, name = 
 > 示例代码：**[andyRon/iOS-Multithreading](https://github.com/andyRon/iOS-Multithreading)**
 
 > 参考：
-[关于iOS多线程，我说，你听，没准你就懂了！](https://www.jianshu.com/p/51fd1362249e)
-[谈iOS多线程(NSThread、NSOperation、GCD)编程](http://www.jianshu.com/p/6e6f4e005a0b)
-[iOS多线程：『GCD』详尽总结](http://www.jianshu.com/p/2d57c72016c6)
-[iOS多线程：『pthread、NSThread』详尽总结](https://www.jianshu.com/p/cbaeea5368b1)
-[iOS多线程：『NSOperation、NSOperationQueue』详尽总结](https://www.jianshu.com/p/4b1d77054b35)
-[关于iOS多线程，你看我就够了](https://www.jianshu.com/p/0b0d9b1f1f19)
-[Grand Central Dispatch (GCD) and Dispatch Queues in Swift 3](https://www.appcoda.com/grand-central-dispatch/)
-[WWDC-2017-Modernizing Grand Central Dispatch Usage](https://developer.apple.com/videos/play/wwdc2017/706/)
+[关于iOS多线程，我说，你听，没准你就懂了！](https://www.jianshu.com/p/51fd1362249e)  
+[谈iOS多线程(NSThread、NSOperation、GCD)编程](http://www.jianshu.com/p/6e6f4e005a0b)  
+[iOS多线程：『GCD』详尽总结](http://www.jianshu.com/p/2d57c72016c6)  
+[iOS多线程：『pthread、NSThread』详尽总结](https://www.jianshu.com/p/cbaeea5368b1)  
+[iOS多线程：『NSOperation、NSOperationQueue』详尽总结](https://www.jianshu.com/p/4b1d77054b35)  
+[关于iOS多线程，你看我就够了](https://www.jianshu.com/p/0b0d9b1f1f19)  
+[Grand Central Dispatch (GCD) and Dispatch Queues in Swift 3](https://www.appcoda.com/grand-central-dispatch/)  
+[WWDC-2017-Modernizing Grand Central Dispatch Usage](https://developer.apple.com/videos/play/wwdc2017/706/)  
